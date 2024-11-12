@@ -1,4 +1,4 @@
-# Vite React TypeScript Starter
+# Vite + React Portfolio
 
 A minimal and responsive portfolio starter project built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**. This project is designed for fast, efficient development with a modern tech stack and best practices for a smooth, scalable codebase.
 
@@ -36,7 +36,7 @@ The project is structured as follows:
 The project is structured as follows:
 
 ```plaintext
-git clone https://github.com/your-username/vite-react-typescript-starter.git
+git clone https://github.com/therealrawat/pr-folio.git
 cd vite-react-typescript-starter
 
 ```
